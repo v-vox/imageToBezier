@@ -1,7 +1,7 @@
 # imageToBezier
 yo
 
-Converts an imnage into bezier curves. 
+Converts an image into bezier curves. 
 
 Bezier curves generated will be 10x the resolution of the original image.
 ImageToBezier.cmd to open the tool. Images must be in THIS directory (same directory as ImageToBezier.cmd) 
