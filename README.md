@@ -6,3 +6,6 @@ ImageToBezier.cmd to open the tool. Images must be in THIS directory (same direc
 .
 Image format conversion and canny edge detection using openCV (included in release), tracing SVGs to a single path using Potrace, and then script to convert bezier paths to curve equations.
 release includes all DLLs
+
+
+(i made this a year ago and i lost the source code but i'll upload it if i find it)
